@@ -2,5 +2,3 @@
 
 <p>Site Finans (Exemplo de Layout)</p>
 
-https://jean-mygit.github.io/Layout_Finans/
-
